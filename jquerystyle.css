@@ -1,0 +1,10 @@
+
+.tooltip {
+    position: absolute;
+    z-index: 1000;
+    border: 1px solid gray;
+    background-color: #FFFFD4;
+    padding: 10px 10px 10px 10px;
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+}
